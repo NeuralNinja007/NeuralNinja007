@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Mubashir</h1>
+<h1 align="center">Hi , I'm Mohammed Mubashir</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=3DDC84&center=true&vCenter=true&width=900&lines=Software+Developer;AI+%26+Machine+Learning+Engineer;Full-Stack+Developer;Learning+Cybersecurity;Always+Building+Something+New" />
@@ -176,7 +176,9 @@ A collection of machine learning models, predictive analytics, automation script
 
 🌐 **Portfolio:** *Coming Soon*
 
-💼 **LinkedIn:** <a href="https://www.linkedin.com/in/mubashir2003/" target="_blank">linkedin</a>
+📸 **Instagram:** <a href="https://www.instagram.com/iammubashirx/?hl=en" target="_blank">@iammubashirx</a>
+
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/mubashir2003/" target="_blank">Here</a>
 
 📄 **Resume:** <a href="https://drive.google.com/file/d/1MDuBSohzFAnBUFPowbreUcXwQZjJEFZp/view" target="_blank">View Resume</a>
 
