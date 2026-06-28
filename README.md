@@ -57,11 +57,47 @@ Currently developing and maintaining scalable web applications, REST APIs, and A
 
 ## ⚡ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,mongodb,mysql,docker,aws,git,github,githubactions,linux,vscode,postman,figma,tensorflow,pytorch&perline=8" />
+## 💻 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 </p>
 
-<p align="center">
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+OpenAI API • LangChain • Hugging Face • Scikit-learn • Pandas • NumPy
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma" />
+</p>
+<p>
 <b>Also working with:</b><br>
 OpenAI API • LangChain • Hugging Face • Scikit-learn • Pandas • NumPy
 </p>
