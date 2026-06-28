@@ -1,5 +1,7 @@
 # Hi 👋, I'm Mohammed Mubashir
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Mohammed+Mubashir;Software+Developer;AI+%26+Machine+Learning+Engineer;Full-Stack+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+</p>
 ### Software Developer | AI & Machine Learning Engineer | Full-Stack Developer | Cybersecurity Enthusiast
 
 [🌐 Portfolio](https://your-portfolio.com) • [💼 LinkedIn](https://linkedin.com/in/your-profile) • [📄 Resume](https://your-resume-link.com) • [📫 Email](mailto:your@email.com)
