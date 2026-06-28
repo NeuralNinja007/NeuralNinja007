@@ -1,36 +1,49 @@
 # Hi 👋, I'm Mohammed Mubashir
 
-### AI & Full-Stack Developer • Computer Science (AI & ML) Graduate • Building AI Solutions
+### Software Developer | AI & Machine Learning Engineer | Full-Stack Developer | Cybersecurity Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubashir2003/) [![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/your-resume-link/view) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.mubashir2025@outlook.com)
-
----
-
-# 🚀 About Me
-
-I'm a Computer Science graduate specializing in Artificial Intelligence & Machine Learning with a strong interest in building AI-powered applications, scalable backend systems, and modern web applications.
-
-I enjoy turning ideas into real products by combining AI, software engineering, and intuitive user experiences.
-
-My current focus is developing practical solutions that solve real-world problems while continuously improving my skills in full-stack development, cloud technologies, and machine learning.
-
-> Learn → Build → Deploy → Improve
+[🌐 Portfolio](https://your-portfolio.com) • [💼 LinkedIn](https://linkedin.com/in/your-profile) • [📄 Resume](https://your-resume-link.com) • [📫 Email](mailto:your@email.com)
 
 ---
 
-# 🔍 Currently Working On
+## 🚀 About Me
 
-* 🌾 **AgriGenius** – AI-powered assistant for farmers
-* ✈️ **Avia Protector** – AI emergency assistant for aviation safety
-* 🤖 Large Language Model integrations
-* ⚡ FastAPI & modern backend architectures
-* ☁️ Cloud deployment and DevOps practices
+I'm a Software Developer with a Bachelor's degree in Computer Science, specializing in Artificial Intelligence and Machine Learning.
+
+I enjoy building intelligent, scalable, and secure software that solves real-world problems. My experience spans full-stack web development, backend engineering, and AI-powered applications using modern technologies.
+
+Alongside software development, I'm actively expanding my knowledge in cybersecurity, cloud computing, and DevOps to build applications that are not only intelligent but also reliable and secure.
+
+> **Build • Secure • Learn • Scale**
 
 ---
 
-# 💻 Tech Stack
+## 💼 Current Role
 
-## Languages
+### Software Developer
+
+Currently developing and maintaining scalable web applications, REST APIs, and AI-driven solutions while focusing on clean architecture, performance, maintainability, and user experience.
+
+---
+
+## 🔭 What I'm Working On
+
+* 🌾 **AgriGenius** — AI-powered agriculture assistant with multilingual support, intelligent crop guidance, disease detection, and weather insights.
+* ✈️ **Avia Protector** — AI-powered aviation emergency assistance platform designed to support pilots during critical situations.
+* 🤖 Building AI applications powered by Large Language Models (LLMs).
+* ⚡ Designing scalable backend systems using FastAPI and Node.js.
+* ☁️ Learning cloud-native development and DevOps practices.
+
+---
+
+## 💻 Tech Stack
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,mysql,docker,git,github,linux,vscode,postman,figma,tensorflow" />
+</p>
+### Programming Languages
 
 * Python
 * JavaScript
@@ -39,116 +52,143 @@ My current focus is developing practical solutions that solve real-world problem
 * HTML5
 * CSS3
 
-## Frontend
+### Frontend
 
 * React
 * Next.js
 * Tailwind CSS
 * Bootstrap
 
-## Backend
+### Backend
 
 * Node.js
 * Express.js
 * FastAPI
 
-## Databases
+### Databases
 
 * MongoDB
 * MySQL
 
-## AI / Machine Learning
+### AI / Machine Learning
 
-* OpenAI APIs
+* OpenAI API
 * LangChain
 * Hugging Face
 * Scikit-learn
 * Pandas
 * NumPy
-* TensorFlow (Basics)
+* TensorFlow
 
-## Tools
+### DevOps & Cloud
+
+* Docker
+* GitHub Actions
+* AWS *(Learning)*
+
+### Tools
 
 * Git
 * GitHub
 * VS Code
-* Postman
-* Docker
 * Linux
+* Postman
+* Figma
 
 ---
 
-# 📌 Featured Projects
+## 🔐 Interests
 
-## 🌾 AgriGenius
-
-An AI-powered agriculture assistant that helps farmers with crop diseases, fertilizer recommendations, weather insights, multilingual support, and intelligent agricultural guidance.
-
-**Tech Stack**
-
-React • FastAPI • Python • OpenAI • MongoDB
-
----
-
-## ✈️ Avia Protector
-
-An AI-based aviation emergency assistance platform designed to help pilots during critical situations through intelligent decision support.
-
-**Tech Stack**
-
-Python • AI • Machine Learning • FastAPI
-
----
-
-## 🛒 MERN Full Stack Project
-
-A complete full-stack web application built using the MERN stack with authentication, database integration, and responsive UI.
-
-React • Node.js • Express • MongoDB
-
----
-
-## 📊 Data Analytics & Machine Learning Projects
-
-Collection of predictive models, data preprocessing pipelines, visualization dashboards, and machine learning experiments.
-
-Python • Pandas • NumPy • Scikit-learn
-
----
-
-## 💡 More Projects
-
-Explore all my repositories below to see additional projects on AI, web development, automation, and software engineering.
-
----
-
-# 📈 GitHub Stats
-
-(Add GitHub Readme Stats here)
-
----
-
-# 🌱 Currently Learning
-
-* Advanced React
+* Cybersecurity
+* AI & Machine Learning
+* Full-Stack Development
+* Cloud Computing
+* DevOps
 * System Design
-* Docker & Kubernetes
+* Open Source
+
+---
+
+## 📌 Featured Projects
+
+### 🌾 AgriGenius
+
+An AI-powered agriculture platform that helps farmers with crop disease detection, fertilizer recommendations, multilingual assistance, weather insights, and intelligent agricultural guidance.
+
+**Tech Stack**
+
+React • FastAPI • Python • MongoDB • OpenAI
+
+**Repository:** *(GitHub Link)*
+
+---
+
+### ✈️ Avia Protector
+
+An AI-powered aviation safety platform designed to assist pilots during emergency situations using intelligent decision support and contextual guidance.
+
+**Tech Stack**
+
+Python • FastAPI • Machine Learning • AI
+
+**Repository:** *(GitHub Link)*
+
+---
+
+### 🛒 MERN Full-Stack Application
+
+A production-ready full-stack application with secure authentication, REST APIs, responsive UI, and database integration.
+
+**Tech Stack**
+
+MongoDB • Express.js • React • Node.js
+
+**Repository:** *(GitHub Link)*
+
+---
+
+### 📊 AI & Machine Learning Projects
+
+A collection of machine learning models, predictive analytics, automation scripts, and data visualization projects built using Python and modern AI libraries.
+
+**Repository:** *(GitHub Link)*
+
+---
+
+## 🌱 Currently Learning
+
+* Cybersecurity Fundamentals
+* Web Application Security
+* Penetration Testing
+* Advanced System Design
 * AWS Cloud
+* Docker & Kubernetes
 * CI/CD Pipelines
+* Large Language Models (LLMs)
 * Retrieval-Augmented Generation (RAG)
 
 ---
 
-# 🤝 Let's Connect
+## 📈 GitHub Statistics
 
-💼 LinkedIn
+* GitHub Readme Stats
+* GitHub Streak Stats
+* Most Used Languages
+* Contribution Graph
+* GitHub Trophies
+* Visitor Counter
 
-📫 Email
+---
 
-🌐 Portfolio
+## 🤝 Connect With Me
+
+🌐 **Portfolio**
+💼 **LinkedIn**
+📄 **Resume**
+📧 **Email**
 
 ---
 
 ### Thanks for visiting my profile!
 
-I'm always excited to build impactful software, explore new technologies, and contribute to meaningful projects.
+I'm passionate about building intelligent software, exploring cybersecurity, and developing scalable solutions that create real-world impact. I'm always learning, building, and improving as an engineer.
