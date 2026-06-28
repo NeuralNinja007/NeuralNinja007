@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohammed Mubashir
+<p align="center"> # Hi 👋, I'm Mohammed Mubashir # </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=3DDC84&center=true&vCenter=true&width=900&lines=Software+Developer;AI+%26+Machine+Learning+Engineer;Full-Stack+Developer;Learning+Cybersecurity;Always+Building+Something+New" />
 </p>
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
-### Software Developer | AI & Machine Learning Engineer | Full-Stack Developer | Cybersecurity Enthusias
+### Software Developer | AI & Machine Learning Engineer | Full-Stack Developer | Cybersecurity Enthusias ###
 
 ---
 
@@ -47,13 +47,9 @@ Currently developing and maintaining scalable web applications, REST APIs, and A
 
 * 🌾 **AgriGenius** — AI-powered agriculture assistant with multilingual support, intelligent crop guidance, disease detection, and weather insights.
 * ✈️ **Avia Protector** — AI-powered aviation emergency assistance platform designed to support pilots during critical situations.
-* 🤖 Building AI applications powered by Large Language Models (LLMs).
-* ⚡ Designing scalable backend systems using FastAPI and Node.js.
 * ☁️ Learning cloud-native development and DevOps practices.
 
 ---
-
-## 💻 Tech Stack
 
 ## 💻 Tech Stack
 
