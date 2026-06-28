@@ -55,62 +55,16 @@ Currently developing and maintaining scalable web applications, REST APIs, and A
 
 ---
 
-## 💻 Tech Stack
+## ⚡ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,mysql,docker,git,github,linux,vscode,postman,figma,tensorflow" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,mongodb,mysql,docker,aws,git,github,githubactions,linux,vscode,postman,figma,tensorflow,pytorch&perline=8" />
 </p>
-### Programming Languages
 
-* Python
-* JavaScript
-* Java
-* SQL
-* HTML5
-* CSS3
-
-### Frontend
-
-* React
-* Next.js
-* Tailwind CSS
-* Bootstrap
-
-### Backend
-
-* Node.js
-* Express.js
-* FastAPI
-
-### Databases
-
-* MongoDB
-* MySQL
-
-### AI / Machine Learning
-
-* OpenAI API
-* LangChain
-* Hugging Face
-* Scikit-learn
-* Pandas
-* NumPy
-* TensorFlow
-
-### DevOps & Cloud
-
-* Docker
-* GitHub Actions
-* AWS *(Learning)*
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Linux
-* Postman
-* Figma
+<p align="center">
+<b>Also working with:</b><br>
+OpenAI API • LangChain • Hugging Face • Scikit-learn • Pandas • NumPy
+</p>
 
 ---
 
@@ -136,7 +90,6 @@ An AI-powered agriculture platform that helps farmers with crop disease detectio
 
 React • FastAPI • Python • MongoDB • OpenAI
 
-**Repository:** *(GitHub Link)*
 
 ---
 
@@ -183,17 +136,6 @@ A collection of machine learning models, predictive analytics, automation script
 * CI/CD Pipelines
 * Large Language Models (LLMs)
 * Retrieval-Augmented Generation (RAG)
-
----
-
-## 📈 GitHub Statistics
-
-* GitHub Readme Stats
-* GitHub Streak Stats
-* Most Used Languages
-* Contribution Graph
-* GitHub Trophies
-* Visitor Counter
 
 ---
 
