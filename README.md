@@ -19,15 +19,13 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
-### Software Developer | AI & Machine Learning Engineer | Full-Stack Developer | Cybersecurity Enthusiast
-
-[🌐 Portfolio](https://your-portfolio.com) • [💼 LinkedIn](https://linkedin.com/in/your-profile) • [📄 Resume](https://your-resume-link.com) • [📫 Email](mailto:your@email.com)
+### Software Developer | AI & Machine Learning Engineer | Full-Stack Developer | Cybersecurity Enthusias
 
 ---
 
 ## 🚀 About Me
 
-I'm a Software Developer with a Bachelor's degree in Computer Science, specializing in Artificial Intelligence and Machine Learning.
+I'm a Software Developer with a Bachelor's degree in Computer Science, specialized in Artificial Intelligence and Machine Learning.
 
 I enjoy building intelligent, scalable, and secure software that solves real-world problems. My experience spans full-stack web development, backend engineering, and AI-powered applications using modern technologies.
 
