@@ -84,10 +84,6 @@ Currently developing and maintaining scalable web applications, REST APIs, and A
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-<p>
-OpenAI API • LangChain • Hugging Face • Scikit-learn • Pandas • NumPy
-</p>
-
 ### DevOps & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=docker,githubactions,aws" />
@@ -97,6 +93,7 @@ OpenAI API • LangChain • Hugging Face • Scikit-learn • Pandas • NumPy
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma" />
 </p>
+
 <p>
 <b>Also working with:</b><br>
 OpenAI API • LangChain • Hugging Face • Scikit-learn • Pandas • NumPy
@@ -177,10 +174,14 @@ A collection of machine learning models, predictive analytics, automation script
 
 ## 🤝 Connect With Me
 
-🌐 **Portfolio**
-💼 **LinkedIn**
-📄 **Resume**
-📧 **Email**
+🌐 **Portfolio:** *Coming Soon*
+
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/mubashir2003/" target="_blank">linkedin</a>
+
+📄 **Resume:** <a href="https://drive.google.com/file/d/1MDuBSohzFAnBUFPowbreUcXwQZjJEFZp/view" target="_blank">View Resume</a>
+
+📧 **Email:** <a href="mailto:mohammed.mubashir2025@outlook.com">[mohammed.mubashir2025@outlook.com](mailto:mohammed.mubashir2025@outlook.com)</a>
+
 
 ---
 
