@@ -57,8 +57,6 @@ Currently developing and maintaining scalable web applications, REST APIs, and A
 
 ## ⚡ Tech Stack
 
-## 💻 Tech Stack
-
 ### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
@@ -109,7 +107,6 @@ OpenAI API • LangChain • Hugging Face • Scikit-learn • Pandas • NumPy
 * Cloud Computing
 * DevOps
 * System Design
-* Open Source
 
 ---
 
@@ -134,8 +131,6 @@ An AI-powered aviation safety platform designed to assist pilots during emergenc
 
 Python • FastAPI • Machine Learning • AI
 
-**Repository:** *(GitHub Link)*
-
 ---
 
 ### 🛒 MERN Full-Stack Application
@@ -146,15 +141,12 @@ A production-ready full-stack application with secure authentication, REST APIs,
 
 MongoDB • Express.js • React • Node.js
 
-**Repository:** *(GitHub Link)*
 
 ---
 
 ### 📊 AI & Machine Learning Projects
 
 A collection of machine learning models, predictive analytics, automation scripts, and data visualization projects built using Python and modern AI libraries.
-
-**Repository:** *(GitHub Link)*
 
 ---
 
@@ -164,11 +156,7 @@ A collection of machine learning models, predictive analytics, automation script
 * Web Application Security
 * Penetration Testing
 * Advanced System Design
-* AWS Cloud
 * Docker & Kubernetes
-* CI/CD Pipelines
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
 
 ---
 
