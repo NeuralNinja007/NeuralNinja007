@@ -1,4 +1,5 @@
-<p align="center"> # Hi 👋, I'm Mohammed Mubashir </p>
+<h1 align="center">Hi 👋, I'm Mohammed Mubashir</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=3DDC84&center=true&vCenter=true&width=900&lines=Software+Developer;AI+%26+Machine+Learning+Engineer;Full-Stack+Developer;Learning+Cybersecurity;Always+Building+Something+New" />
 </p>
@@ -19,7 +20,10 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
-# Software Developer | AI & Machine Learning Engineer | Full-Stack Developer | Cybersecurity Enthusias 
+
+<h3 align="center">
+Software Developer • AI & Machine Learning Engineer • Full-Stack Developer • Cybersecurity Enthusiast
+</h3>
 
 ---
 
